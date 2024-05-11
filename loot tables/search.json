@@ -1,0 +1,32 @@
+{
+    "_comment1": "All integer values are percentages. (10 becomes 10% so 0.1 becomes 0.1%)",
+
+    "under the bed": {
+        "Bronze Chest": 10,
+        "Silver Chest": 1,
+        "Gold Chest": 0.1,
+        "Master Chest": 0.01
+    },
+    "the sofa": {
+        "Dust Bunny": 50
+    },
+    "the bathroom": {
+        "Toilet Paper": 20
+    },
+    "the mailbox": {
+        "Letter": 10,
+        "Love Letter": 1
+    },
+    "your pockets": {
+        "Green Sweet": 30,
+        "Purple Sweet": 10,
+        "Orange Sweet": 1,
+        "??? Sweet": 0.1
+    },
+    "your coat": {
+        "Green Sweet": 30,
+        "Purple Sweet": 10,
+        "Orange Sweet": 1,
+        "??? Sweet": 0.1
+    }
+}

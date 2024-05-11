@@ -1,0 +1,25 @@
+{
+    "_comment1": "All values are x/100 to be percentages.",
+
+    "normal": {
+        "People agree with you for some reason.": 15,
+        "You got a DM with money and it turned out to be real! The kind stranger gave you _ in BTC.": 2.5,
+        "You got a DM with money and it turned out to be fake! They stole everything in your wallet and you are now left with nothing. Don't click random links online then!": 2.5,
+        "Nobody responds to your tweet. That's it. Nothing happened.": 30,
+        "You got DDOSed and it fried your device. Shame.": 10,
+        "You got your IP leaked by a BTS stan for saying Jimin isn't that cute. Very deserved.": 10,
+        "You got your location leaked by the CIA. What the hell did you tweet?": 15,
+        "You got a DM with a death threat for disrespecting My Hero Academia. Never do it again.": 15
+    },
+    
+    "twitter blue": {
+        "People agree with you for some reason.": 20,
+        "You got a DM with money and it turned out to be real! The kind stranger gave you _ in BTC.": 40,
+        "You got a DM with money and it turned out to be fake! They stole everything in your wallet and you are now left with nothing. Don't click random links online then!": 5,
+        "Nobody responds to your tweet. That's it. Nothing happened.": 25,
+        "You got DDOSed and it fried your device. Shame.": 1,
+        "You got your IP leaked by a BTS stan for saying Jimin isn't that cute. Very deserved.": 5,
+        "You got your location leaked by the CIA. What the hell did you tweet?": 1,
+        "You got a DM with a death threat for disrespecting My Hero Academia. Never do it again.": 3
+    }
+}

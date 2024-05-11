@@ -1,0 +1,63 @@
+{
+    "_comment1": "All integer values are percentages. (10 becomes 10% so 0.1 becomes 0.1%)",
+
+    "arson": {
+        "Dynamite": 15,
+        "Grenade": 20,
+        "Molotov": 15,
+        "Kawaii Molotov": 5
+    },
+    "burglary": {
+        "Laptop": 10,
+        "Phone": 10,
+        "Desktop": 10,
+        "Monitor": 10,
+        "Wad of Cash": 15
+    },
+    "carjacking": {
+        "Steering Wheel": 20,
+        "Wheel": 20
+    },
+    "create ransomware": {
+        "Laptop": 10
+    },
+    "cyberbullying": {
+        "Phone": 10,
+        "Twitter Blue": 20,
+        "Cease and Desist": 70
+    },
+    "hacking": {
+        "Laptop": 50,
+        "Wad of Cash": 35
+    },
+    "murder": {
+        "Crowbar": 10,
+        "Baseball Bat": 25,
+        "Military Knife": 20
+    },
+    "prank call": {
+        "Cease and Desist": 70
+    },
+    "punch an old lady": {
+        "Tooth": 40,
+        "Grandma": 5
+    },
+    "scam call": {
+        "Cease and Desist": 70
+    },
+    "sell drugs": {
+        "Weed Leaf": 10,
+        "Weed Buds": 10
+    },
+    "shoplifting": {
+        "Shopping Bag": 25
+    },
+    "speeding": {
+    },
+    "steal a purse": {
+        "Handbag": 35
+    },
+    "touching grass": {
+        "Grass": 100
+    }
+}

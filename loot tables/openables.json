@@ -1,0 +1,48 @@
+{
+    "_what_to_do": "Add 1-2x or 1-3x or 2-5x to the quantities and update the generate_loot() function to accept variable quantities.",
+
+    "Bronze Chest": {
+        "1-2x Grenade": 5,
+        "1-2x Dust Bunny": 50,
+        "1-2x Ham Sandwich": 20,
+        "1x Tuna Sandwich": 10,
+        "1x Dildo": 10,
+        "1x Silver Chest": 5
+    },
+    "Silver Chest": {
+        "1-3x Wad of Cash": 5,
+        "1-2x Dust Bunny": 25,
+        "1-2x Dynamite": 15,
+        "1x Grenade": 10,
+        "1x Handbag": 15,
+        "1x Tyre": 10,
+        "2-3x Tooth": 10,
+        "1x Gold Chest": 5
+    },
+    "Gold Chest": {
+        "1x Kawaii Molotov": 2.5,
+        "1x Master Chest": 2.5,
+        "3-5x Weed Buds": 10,
+        "2-3x Weed Leaf": 10,
+        "5-10x Wad of Cash": 50,
+        "2-5x Molotov": 5,
+        "2-3x GTX 1080 Ti": 10,
+        "1-2x GTX 3090": 10
+    },
+    "Master Chest": {
+        "2-3x GTX 3090": 20,
+        "3x GTX 1080 Ti": 10,
+        "1-2x Kawaii Molotov": 30,
+        "3-5x Molotov": 10,
+        "1-2x Tyre": 10,
+        "1x Steering Wheel": 5,
+        "8-10x Wad of Cash": 15
+    },
+    "Handbag": {
+        "1x Grandma": 5,
+        "1x Weed Buds": 5,
+        "1-2x Dust Bunny": 50,
+        "1x Dildo": 30,
+        "1x Tuna Sandwich": 10
+    }
+}

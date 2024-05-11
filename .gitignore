@@ -1,0 +1,9 @@
+discord.log
+blacklisted_words.txt
+test bot code/
+playerdata.sql
+playerdata.sql-wal
+playerdata.sql-shm
+token.txt
+horrible_context.txt
+__pycache__/
