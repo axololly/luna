@@ -1,7 +1,6 @@
 discord.log
 blacklisted_words.txt
 test bot code/
-playerdata.sql
 playerdata.sql-wal
 playerdata.sql-shm
 token.txt
